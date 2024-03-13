@@ -12,6 +12,7 @@ movie.append(movie2)
 movie.append(movie3)
 print ("Your List Of Three Favorite Movies Are : ", movie)"""
 
+
 #Pallindrome or not
 """sentence = input('Enter A Sentence : ')
 rev_sentence = sentence[::-1]
@@ -28,3 +29,10 @@ if(copy_l1 == list2):
     print("palindrome")
 else:
     print("not palindrome")"""
+
+#wap to count the number of students with "A" grade in the following tuple.
+"""grade = ["C", "D", "A", "A", "B", "A"]
+#print(grade.count("A"))
+#store them in a list &sort them from "A" to "D"
+grade.sort()
+print(grade)"""
